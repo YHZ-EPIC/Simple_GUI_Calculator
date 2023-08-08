@@ -7,9 +7,7 @@ Made by Yasir Hussain (aka Me) as Side Project during University.
   This is a simple calculator application built using WinForms in C#. 
   It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-<br>
 Made by Yasir Hussain (aka Me) as Side Project during University.
-<br>
 
 ## Features
 
