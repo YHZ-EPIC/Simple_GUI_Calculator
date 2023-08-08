@@ -5,7 +5,12 @@ Made by Yasir Hussain (aka Me) as Side Project during University.
 # Simple Calculator App using WinForms C#
 
   This is a simple calculator application built using WinForms in C#. 
-  It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
+  It provides basic arithmetic operations such as 
+  
+  1) Addition
+  2) Subtraction
+  3) Multiplication
+  4) Division.
 
 Made by Yasir Hussain (aka Me) as Side Project during University.
 
@@ -27,14 +32,6 @@ Made by Yasir Hussain (aka Me) as Side Project during University.
 1. Clone the repository or download the source code.
 2. Open the project in Visual Studio or your preferred C# development environment.
 3. Build and run the application.
-
-## Usage
-
-1. Enter the first number in the designated input field.
-2. Select the desired arithmetic operation from the available buttons (+, -, *, /).
-3. Enter the second number in the designated input field.
-4. Click the "Calculate" button to perform the selected operation and display the result.
-5. To clear the input fields and result, click the "Clear" button.
 
 ## License
 
